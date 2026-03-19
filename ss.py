@@ -24,7 +24,7 @@ def keep_alive():
     t.start()
 
 # --- BOT SOZLAMALARI ---
-API_TOKEN = '8613693212:AAGPxSce8tQEHI-iSLR3YGJalr40PdyQFSc'
+API_TOKEN = '8613693212:AAGJy4J4a27ijFuLwyeiqvVy3NjDVxaaf24'
 ADMIN_ID = 6363065057  # O'zingizning Telegram ID raqamingizni yozing
 ADMIN_PASSWORD = "Shohjahon"
 
